@@ -1,0 +1,29 @@
+body{
+    background: lightgrey;
+}
+nav{
+    text-align: center;
+}
+.menu{
+    display: inline-block;
+    padding: 10px;
+    text-decoration: underline;
+    border: solid black 3px;
+}
+table,td {
+    margin: auto;
+    text-align: center;
+    border: 1px solid #333333;
+    border-collapse: collapse;
+    padding:10px;
+}
+.form1{
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
+.form2{
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
